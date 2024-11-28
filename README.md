@@ -1,6 +1,6 @@
 - 👋 Hi, I’m sreekar
-- 👀 I’m interested in c++,videogames
-- 🌱 I’m currently learning c++
+- 👀 I’m interested in java,backend,c++,videogames
+- 🌱 I’m currently learning java,c++
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me sreekarsai193@gmail.com
 
